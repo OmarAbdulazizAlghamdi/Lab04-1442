@@ -1,0 +1,49 @@
+aside{
+      width: 30%;
+      padding-left: 15px;
+      margin-left: 15px;
+      float: right;
+      font-style: italic;
+      background-color: azure;
+}
+footer{
+      text-align: center;
+      padding: 4px;
+      background-color: firebrick;
+      color: black;
+}
+body {
+      font-size:16px;	  
+      font-family: "Palatino Linotype", sans-serif;
+	  line-height:1.5;
+	  background: #eef;
+	  text-align:justify;
+	  margin:5px;
+}
+h1{
+	  font-size:24px;	
+      font-family: "Merriweather", serif;
+	  background-image: url('C:\Users\Admin\Desktop\internet\gitrepo\Lab04-1442\img\css_header.png');
+	  color:blue;
+	  text-align:center;
+	  text-transform:uppercase;
+	  
+}
+img{
+	  width:25%;
+	  float:right;
+	  clear:both;
+}	
+article, aside, footer, header, menu, nav, section {
+display: block;
+}    
+article, section{
+margin:20px;
+}
+ images, nav, text, aside, elements{
+padding:2;
+ }
+nav{
+float:left;
+}
+	
